@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">DocApp</string>
+    <string name="app_name">Health Management System</string>
+    <string name="logScreenLoginButton">Login</string>
 </resources>
